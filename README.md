@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Yinka.. I'm a driven & motivated software developer with interest in fullstack developent
-### Check out my portfolio @ yimika.netlify.app
+### Check out my[portfolio @](https://yimika.netlify.app)
 
 <!--
 **yimikao/yimikao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
