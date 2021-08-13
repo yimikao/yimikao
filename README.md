@@ -2,9 +2,9 @@ Software Engineer keen on building and shipping innovative products geared towar
 
 Interests:
 
-- Software Development
-- Cloud Computing
--Blockchain Developmet
+* Software Development
+* Cloud Computing
+* Blockchain Developmet
 <!--
 **yimikao/yimikao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
