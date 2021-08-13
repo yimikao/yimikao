@@ -1,4 +1,4 @@
-### Software Engineer keen on building and shipping innovative products geared toward simplifying, automating, and improving lives.
+Software Engineer keen on building and shipping innovative products geared toward simplifying, automating, and improving lives.
 
 Interests:
 
