@@ -1,5 +1,10 @@
-### Hi there 👋, I'm Yinka.. I'm a driven & motivated software developer with interest in fullstack developent.. Apart from my github, also check out my [portfolio website](https://yimika.netlify.app)
+Software Engineer keen on building and shipping innovative products geared toward simplifying, automating, and improving life
 
+Interests:
+
+- Software Development
+- Cloud Computing
+-Blockchain Developmet
 <!--
 **yimikao/yimikao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
