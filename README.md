@@ -2,6 +2,7 @@ I'm a software engineer interested in web dev, infrastructure and open-source.
 
 
 <!--
+i wrire logics.
 Software Engineer keen on building and shipping innovative products geared toward simplifying, automating, and improving lives.
 
 Interests:
