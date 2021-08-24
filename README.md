@@ -1,4 +1,4 @@
-I'm a software engineer interested in web dev, infrastructure and open-source.
+I'm a web engineer interested in infrastructure and open-source.
 
 
 <!--
